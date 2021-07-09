@@ -1,8 +1,7 @@
 # Manpreet Singh: Basic Banking System
 Spark foundation internship project
 
-A simple dynamic web application which executes basic banking functions and is fully responsive.
-
+A simple dynamic web application which executes basic banking functions and is fully responsive.  
 Banking services provided: View and add customers, Transfer money between multiple users, Transaction history
 
 IDE: Visual Studio Code
