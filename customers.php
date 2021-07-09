@@ -44,7 +44,7 @@
                     <div class="collapse navbar-collapse" id="collapsibleNavbar">
                       <ul class="navbar-nav">
                         <li class="nav-item active">
-                          <a class="nav-link text-uppercase text-white px-4 py-3" href="index.php">Home</a>
+                          <a class="nav-link text-uppercase text-white px-4 py-3" href="index.html">Home</a>
                         </li>
                         <li class="nav-item">
                           <a id="myBtn" class="nav-link text-uppercase text-white px-4 py-3" href="#">Add customer</a>
